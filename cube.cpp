@@ -19,3 +19,5 @@ void cube::setPosition(int posX, int posY) {
 }
 
 cube::~cube() {}
+
+

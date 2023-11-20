@@ -20,7 +20,6 @@ int main() {
         }
 
         field.moveFishka(number);
-        //cout << "============================" << endl;
     } while (true);
 
     return 0;
